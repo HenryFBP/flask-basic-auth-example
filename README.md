@@ -1,4 +1,4 @@
-adapted from <https://flask.palletsprojects.com/en/2.2.x/quickstart/>
+adapted from <https://flask-basicauth.readthedocs.io/en/latest/>
 
 # Setup
 
