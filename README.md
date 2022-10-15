@@ -1,4 +1,10 @@
+# How
+
 adapted from <https://flask-basicauth.readthedocs.io/en/latest/>
+
+# Why
+
+To password-protect pages of Flask web applications
 
 # Setup
 
